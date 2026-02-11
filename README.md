@@ -24,7 +24,7 @@ The goal of this competition is to predict which passengers survived the Titanic
 
 ---
 
-# 🧠 Approach
+## 🧠 Approach
 
 1️⃣ Data Preprocessing
 
@@ -46,7 +46,7 @@ The goal of this competition is to predict which passengers survived the Titanic
 
 ---
 
-# Created IsAlone feature:
+## Created IsAlone feature:
 
 ```
 IsAlone = 1 if FamilySize == 1 else 0
@@ -54,20 +54,20 @@ IsAlone = 1 if FamilySize == 1 else 0
 
 --- 
 
-# One-hot encoding for:
+## One-hot encoding for:
 
 - Title
 - Embarked
 
 ---
 
-# Converted:
+## Converted:
 
 Sex → numerical (male=0, female=1)
 
 ---
 
-# Dropped unused columns:
+## Dropped unused columns:
 
 - Name
 - Ticket
@@ -75,7 +75,7 @@ Sex → numerical (male=0, female=1)
 
   ---
 
-# 🤖 Model Used
+## 🤖 Model Used
 
 - Random Forest Classifier
 
@@ -95,7 +95,7 @@ RandomForestClassifier(
 
   ---
 
-# 🏁 Submission
+## 🏁 Submission
 
 Predictions were generated on the processed test set and saved to:
 
@@ -114,7 +114,7 @@ PassengerId,Survived
 
 ---
 
-# 📊 Results
+## 📊 Results
 
 Model: Random Forest
 
@@ -124,7 +124,7 @@ Model: Random Forest
 
   ---
 
-# 🚀 How to Run
+## 🚀 How to Run
 
 Clone the repository:
 
@@ -147,7 +147,7 @@ python main.py
 
 The submission file will be generated automatically.
 
-# 📌 Key Learnings
+## 📌 Key Learnings
 
 - Feature engineering matters more than model complexity.
 - Smart missing value handling improves performance.
