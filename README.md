@@ -1,4 +1,4 @@
-## 🚢 Titanic - Machine Learning from Disaster
+# 🚢 Titanic - Machine Learning from Disaster
 
 This repository contains my solution for the Titanic - Machine Learning from Disaster competition on Kaggle.
 
@@ -6,7 +6,7 @@ The goal of this competition is to predict which passengers survived the Titanic
 
 ---
 
-# 🔗 Competition Link:
+## 🔗 Competition Link:
 **[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)**
 
 ---
