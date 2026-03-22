@@ -9,6 +9,9 @@ The goal of this competition is to predict which passengers survived the Titanic
 ## 🔗 Competition Link:
 **[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)**
 
+## 🔗 Website Link:
+**[Titanic - Machine Learning from Disaster](https://titatnic-survival-prediction-git-main-kunal-srs-projects.vercel.app/)**
+
 ---
 
 ```
